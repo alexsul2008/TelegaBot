@@ -63,3 +63,7 @@ docs/html
 
 # pynev
 .python-version
+
+#VSCode
+.vscode
+.vscode/
