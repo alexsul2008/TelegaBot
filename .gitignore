@@ -68,3 +68,4 @@ docs/html
 .vscode
 .vscode/
 test.py
+config.py
