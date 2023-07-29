@@ -67,3 +67,4 @@ docs/html
 #VSCode
 .vscode
 .vscode/
+test.py
